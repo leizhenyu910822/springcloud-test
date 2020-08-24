@@ -1,12 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="140b0364-7d5c-43b7-b28a-37ebbacbda38" name="Default Changelist" comment="" />
+    <list default="true" id="140b0364-7d5c-43b7-b28a-37ebbacbda38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/springcloud-web-admin-feign.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/src/main/java/com/lzy/common/springcloud/web/admin/fegn/WebAdminFeignApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/src/main/java/com/lzy/common/springcloud/web/admin/fegn/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/src/main/java/com/lzy/common/springcloud/web/admin/fegn/serivce/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/src/main/java/com/lzy/common/springcloud/web/admin/fegn/serivce/hystrix/AdminServiceHystrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-ribbon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-ribbon/springcloud-web-admin-ribbon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/common/lzy/springcloud/web/admin/ribbon/WebAdminRibbonApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/common/lzy/springcloud/web/admin/ribbon/config/RestTemplateConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/common/lzy/springcloud/web/admin/ribbon/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/common/lzy/springcloud/web/admin/ribbon/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/springcloud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/springcloud.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprongcloud-client/src/main/java/com.common.lzy.spring.cloud.client/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sprongcloud-client/src/main/java/com.common.lzy.spring.cloud.client/controller/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprongcloud-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sprongcloud-client/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprongcloud-client/target/classes/META-INF/springcloud-client.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprongcloud-client/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sprongcloud-client/target/classes/application.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,6 +44,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -23,30 +56,35 @@
     </option>
   </component>
   <component name="ProjectId" id="1fw7tvLuzEiSpavPoGbMIIyK4vV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sprongcloud-client/src/main/java/com.common.lzy.spring.cloud.client/controller" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-web-admin-feign/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="project.structure.side.proportion" value="0.33382353" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\022_IdeaProjects\springcloud\springcloud-web-admin-feign\src\main\resources" />
       <recent name="D:\IdeaProjects\springcloud\sprongcloud-client\src\main\java\com.common.lzy.spring.cloud.client\controller" />
     </key>
   </component>
@@ -67,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaApplication">
+  <component name="RunManager" selected="Spring Boot.WebAdminFeignApplication">
     <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springcloud-eureka" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.common.lzy.spring.cloud.eureka.EurekaApplication" />
@@ -75,13 +113,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServiceClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="ServiceClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
       <module name="springcloud-client" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.common.lzy.spring.cloud.client.ServiceClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebAdminFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-web-admin-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.common.springcloud.web.admin.fegn.WebAdminFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebAdminRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-web-admin-ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.common.lzy.springcloud.web.admin.ribbon.WebAdminRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.ServiceClientApplication" />
+      <item itemvalue="Spring Boot.WebAdminRibbonApplication" />
+      <item itemvalue="Spring Boot.WebAdminFeignApplication" />
+    </list>
   </component>
   <component name="ServiceViewManager">
     <option name="allServicesViewState">
@@ -91,12 +150,12 @@
           <expand>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@767866d4" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@40b131bd" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@767866d4" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@bef2ce3a" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@40b131bd" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@d4ef8c07" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
           </expand>
           <select />
@@ -115,10 +174,25 @@
       <option name="presentableId" value="Default" />
       <updated>1597117518636</updated>
       <workItem from="1597117519771" duration="11584000" />
+      <workItem from="1598128043161" duration="13659000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>

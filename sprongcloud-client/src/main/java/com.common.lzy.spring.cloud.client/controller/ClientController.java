@@ -11,8 +11,8 @@ public class ClientController {
     @Value("${server.port}")
     private String port;
 
-    @RequestMapping(value = "hello",method = RequestMethod.GET)
-    public String hello(){
-        return String.format("Hello %sport%s","",port);
+    @RequestMapping(value = "hello", method = RequestMethod.GET)
+    public String hello() {
+        return String.format("Hello %sport%s", "", port);
     }
 }
